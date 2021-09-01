@@ -17,12 +17,12 @@ Apprendre les bases de Flutter au travers des exemple
 - `09-quelsques-operations-sur-les-listes`
 - `10-les-maps`
 
-### Partir 1 : Les Structures alternatives
+### Partir 2 : Les Structures alternatives
 
 - `01-if`
 - `02-switch`
 
-### Partir 1 : Les Structures de repetitions/Boucles
+### Partir 3 : Les Structures de repetitions/Boucles
 
 - `01-for`
 - `02-while`
