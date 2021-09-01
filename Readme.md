@@ -6,22 +6,26 @@ Apprendre les bases de Flutter au travers des exemple
 
 ### Partir 1 : Les bases de Dart
 
-- ` git clone https://gitlab.com/team-e4afrika/casse-ordi/backend.git`
+- `01-hello-word`
+- `02-les-nombres`
+- `03-les-chaines`
+- `04-les-boolean`
+- `05-les-types-dynamic`
+- `06-connaitre-le-type-de-variable`
+- `07-les-constantes`
+- `08-les-listes`
+- `09-quelsques-operations-sur-les-listes`
+- `10-les-maps`
 
-### Etape 2 : Téléchargement des dependances
-- `composer install` à taper dans un terminal à la racine du projet
+### Partir 1 : Les Structures alternatives
 
-### Etape 3 : Creation de la base de donnees
-- `symfony console d:d:c` à taper dans un terminal à la racine du projet
+- `01-if`
+- `02-switch`
 
-### Etape 4 : Creation des tables de la base des donnees
-- `symfony console d:s:u --force` à taper dans un terminal à la racine du projet
+### Partir 1 : Les Structures de repetitions/Boucles
 
-### Etape 5 :  Generation des clefs public/private pour l'application.
-- `symfony console lexik:jwt:generate-keypair` à taper dans un terminal à la racine du projet
-
-### Etape 6 :  Lancer le serveur local.
-- `symfony serve` à taper dans un terminal à la racine du projet
+- `01-for`
+- `02-while`
 
 ## Branches du projet
 
