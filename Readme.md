@@ -1,6 +1,6 @@
-# LES FONDAMENTAUX DE FLUTTER 
+# LES FONDAMENTAUX DE DART 
 
-Apprendre les bases de Flutter au travers des exemple
+Apprendre les bases de Dart aux travers des exemples
 
 ## Ce que vous allez apprendre
 
