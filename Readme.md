@@ -2,7 +2,7 @@
 
 Apprendre les bases de Flutter au travers des exemple
 
-## Installation
+## Ce que vous allez apprendre
 
 ### Partir 1 : Les bases de Dart
 
@@ -21,20 +21,32 @@ Apprendre les bases de Flutter au travers des exemple
 
 - `01-if`
 - `02-switch`
+- `03-operateur-ternaire`
+- `04-operateur-de-nullite`
 
 ### Partir 3 : Les Structures de repetitions/Boucles
 
 - `01-for`
 - `02-while`
+- `03-foreach`
+
+### Partir 4 : Les Fonctions
+
+- `01-for`
+- `02-while`
+- `03-foreach`
+
+### Partir 5 : La programmation Orientée Objet
+
+- `01-instance de classe`
+- `02-heritage`
+
 
 ## Branches du projet
 
 | Principales     | Description                                                                                     |
 | ------------- | ----------------------------------------------------------------------------------------------- |
-| `Master` | Dernière version Stable du Projet.                                     |
-| `Release` |  Version Stable à une étape du projet |
-| `Dev` |  Branche de Développement |
-
+| `Master` | version Stable du Projet.                                     |
 
 ## Contribution
 
@@ -42,7 +54,7 @@ Si vous souhaiter contribuer, Merci de consulter [contributing.md](contributing.
 
 ## Crédits
 
-- [Suleiman KELANY ... ][Contributeur - suleiman.kelany@gmail.com - 96811665]
+- [Suleiman KELANY ... ][Maintaineur - suleiman.kelany@gmail.com - 96811665]
 
 ## Licence
 

@@ -1,5 +1,3 @@
 void main(List<String> args) {
-
-// A revoir dans la section fonction
-
+  // Todo : A voir àprès avoir abordée la partir fonction
 }
