@@ -16,13 +16,14 @@ Apprendre les bases de Dart aux travers des exemples
 - `08-les-listes`
 - `09-quelsques-operations-sur-les-listes`
 - `10-les-maps`
+- `10-les-iterables`
 
 ### Partir 2 : Les Structures alternatives
 
 - `01-if`
 - `02-switch`
 - `03-operateur-ternaire`
-- `04-operateur-de-nullite`
+- `04-operateur-de-nullité`
 
 ### Partir 3 : Les Structures de repetitions/Boucles
 
@@ -32,9 +33,12 @@ Apprendre les bases de Dart aux travers des exemples
 
 ### Partir 4 : Les Fonctions
 
-- `01-for`
-- `02-while`
-- `03-foreach`
+- `01-fonction-simple`
+- `02-fonction-avec-retour`
+- `03-fonction-avec-parametre`
+- `04-fonction-avec-parametre-optionnel`
+- `05-fonction-anonyme`
+- `06-fonction-flechée-ou-lambda`
 
 ### Partir 5 : La programmation Orientée Objet
 
