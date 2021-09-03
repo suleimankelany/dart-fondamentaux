@@ -16,7 +16,7 @@ Apprendre les bases de Dart aux travers des exemples
 - `08-les-listes`
 - `09-quelsques-operations-sur-les-listes`
 - `10-les-maps`
-- `10-les-iterables`
+- `11-les-iterables`
 
 ### Partir 2 : Les Structures alternatives
 
